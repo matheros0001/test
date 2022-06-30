@@ -17,3 +17,11 @@ start({
     mute: "true", // you can add self mute if you don't need type "false"
     def: "true" // you can add self defend if you don't need type "false"
 });
+
+start({
+    token: "ODUyOTQ0OTM3NTQ0NTgxMTcx.G4X4yO.51BHGDEPa6iH_F78jGLyqdyhbzm4O3zPqfBFeI", // You must type account token here
+    status: "online", // You need to type account statues here if you don't need type "false"
+    channel_id: "", // You need to type voice channel id here if you don't need type "false"
+    mute: "true", // you can add self mute if you don't need type "false"
+    def: "true" // you can add self defend if you don't need type "false"
+});
