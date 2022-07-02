@@ -1,7 +1,7 @@
 const Alex = require('alex-selfbot');
 // you can online more than 100 account in one host
 const { start } = Alex;
-
+ 
 start({
     token: "OTg1NTIwODc5OTcyNzgyMTAw.GQ7_3W.S8F3aM9zjGIwkdew5iY_1dGYOIT45kCDYKCLzM", // You must type account token here
     status: "idle", // You need to type account statues here if you don't need type "false"
