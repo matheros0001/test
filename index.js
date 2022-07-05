@@ -19,7 +19,7 @@ start({
 });*/
 
 start({
-    token: "", // You must type account token here
+    token: "OTkyNDg5NTMzNjA4MzA0NzMw.GDC6l3.w8cw31h1hY04IWl7gaUeKKDK6nWGruucrvxejs", // You must type account token here
     status: "dnd", // You need to type account statues here if you don't need type "false"
     channel_id: "993916993214369842", // You need to type voice channel id here if you don't need type "false"
     mute: "true", // you can add self mute if you don't need type "false"
