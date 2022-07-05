@@ -7,7 +7,7 @@ start({
     status: "idle", // You need to type account statues here if you don't need type "false"
     channel_id: "975414329665015848", // You need to type voice channel id here if you don't need type "false"
     mute: "true", // you can add self mute if you don't need type "false"
-    def: "false" // you can add self defend if you don't need type "false"
+    def: "true" // you can add self defend if you don't need type "false"
 });
 
 start({
@@ -15,5 +15,5 @@ start({
     status: "dnd", // You need to type account statues here if you don't need type "false"
     channel_id: "975414329665015848", // You need to type voice channel id here if you don't need type "false"
     mute: "true", // you can add self mute if you don't need type "false"
-    def: "false" // you can add self defend if you don't need type "false"
+    def: "true" // you can add self defend if you don't need type "false"
 });
